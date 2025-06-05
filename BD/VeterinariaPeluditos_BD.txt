@@ -117,4 +117,4 @@ CREATE TABLE consultas_examenes (
 );
 
 #Correo y Contraseña del Admin
-INSERT INTO profesionales VALUES(111, "CC", "Andrés Medina", "Calle 123", "andres@gmail.com", 1111, "2025-05-11", "papita123");
+INSERT INTO profesionales VALUES(111, "CC", "Christian Home", "Calle 123", "chris77@gmail.com", 1111, "2025-05-11", "papita123");
